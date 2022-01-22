@@ -1,1 +1,3 @@
 # cpp_primer_exercises
+
+Trying to do them all...
